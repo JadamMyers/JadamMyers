@@ -1,4 +1,4 @@
-# 💫 About Me:
+Hey👋, I'm Areeb
 🔭 Currently working on: Crypto research and writing for VinaCapital<br>🌱 Getting better at: React and Solidity for blockchain development<br>🌟 Looking to learn: Rust to expand my blockchain development skills and enhance my understanding of system performance and smart contract safety<br>🤔 Exploring: New ways to value on-chain protocols and better ways to design crypto apps for consumers<br>⚗️ Experimenting with: GAN art for projection mapping and building web applications with advanced UI/UX designs<br>💬 Ask me about: DeFi, Futures Trading, and UX/UI
 
 
