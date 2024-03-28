@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hey👋, I'm Areeb</b></h1>
+<h1 align="center"><b>Hey 👋, I'm Areeb</b></h1>
 🔭 Currently working on: Crypto research and writing for VinaCapital<br>🌱 Getting better at: React and Solidity for blockchain development<br>🌟 Looking to learn: Rust to expand my blockchain development skills and enhance my understanding of system performance and smart contract safety<br>🤔 Exploring: New ways to value on-chain protocols, better ways to design crypto apps for consumers, and blockchain concepts like zk-proofs and homomorphic encryption<br>⚗️ Experimenting with: GAN art for projection mapping and building web applications with advanced UX/UI designs<br>💬 Ask me about: DeFi, Futures Trading, and UX/UI
 
 # 💻 Tech Stack:
